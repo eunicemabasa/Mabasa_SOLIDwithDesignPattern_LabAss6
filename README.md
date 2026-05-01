@@ -32,4 +32,4 @@ Each resource type implements its own version of borrow(), displaying a message 
 - The entry point of the application, where a student is created and different types of resources are borrowed.
 
 # UML Class Diagram
-![Image]()
+![Image](https://github.com/eunicemabasa/Mabasa_SOLIDwithDesignPattern_LabAss6/blob/main/UMLDiagram.png)
